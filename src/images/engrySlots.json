@@ -1,0 +1,84 @@
+{"frames": {
+
+"bombBird.png":
+{
+	"frame": {"x":78,"y":0,"w":83,"h":117},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":83,"h":117},
+	"sourceSize": {"w":83,"h":117}
+},
+"bumerangBird.png":
+{
+	"frame": {"x":370,"y":0,"w":115,"h":136},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":115,"h":136},
+	"sourceSize": {"w":115,"h":136}
+},
+"eggBird.png":
+{
+	"frame": {"x":259,"y":0,"w":111,"h":137},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":111,"h":137},
+	"sourceSize": {"w":111,"h":137}
+},
+"fon.png":
+{
+	"frame": {"x":0,"y":145,"w":740,"h":359},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":740,"h":359},
+	"sourceSize": {"w":740,"h":359}
+},
+"igorBird.png":
+{
+	"frame": {"x":605,"y":0,"w":131,"h":137},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":131,"h":137},
+	"sourceSize": {"w":131,"h":137}
+},
+"kingPig.png":
+{
+	"frame": {"x":736,"y":0,"w":132,"h":145},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":132,"h":145},
+	"sourceSize": {"w":132,"h":145}
+},
+"standartPig.png":
+{
+	"frame": {"x":161,"y":0,"w":98,"h":97},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":98,"h":97},
+	"sourceSize": {"w":98,"h":97}
+},
+"unclePig.png":
+{
+	"frame": {"x":485,"y":0,"w":120,"h":102},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":102},
+	"sourceSize": {"w":120,"h":102}
+},
+"yelowBird.png":
+{
+	"frame": {"x":0,"y":0,"w":78,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":78,"h":78},
+	"sourceSize": {"w":78,"h":78}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "engrySlots.png",
+	"format": "RGBA8888",
+	"size": {"w":868,"h":504},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:ac57ec5422f3245f2803bc8f23e1b4cc:2cdf710d1e75142161e81317eac86664:a09a307e00966b9c9b17c7c8bf295b5f$"
+}
+}
